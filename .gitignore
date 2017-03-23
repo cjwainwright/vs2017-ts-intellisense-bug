@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.d.ts
+*.js
+*.js.map
